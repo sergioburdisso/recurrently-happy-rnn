@@ -1,6 +1,6 @@
 # -*- encoding=utf-8 -*-
 # Author: Sergio Burdisso (sergio.burdisso@gmail.com)
-# Licence: MIT
+# License: MIT
 
 from glob import glob
 
