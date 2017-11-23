@@ -1,11 +1,12 @@
 # Having Fun with Recurrent Neural Networks (RNNs)
-### Tutorial - PyData 2017
-(by Sergio G. Burdisso - sergio.burdisso@gmail.com)
+(Tutorial for PyData 2017 by Sergio G. Burdisso - sergio.burdisso@gmail.com)
 
 **Description:** https://pydata.org/sanluis2017/schedule/presentation/3/
 
 **Static Slides:** http://tworld-ai.com/extra/pydata/recurrently-happy-rnn.slides.html
 
+
+---
 ### First things first
 Make sure you have installed the following before opening the notebook.
 * **[SciPy Stack](https://www.scipy.org/install.html)**
@@ -35,6 +36,7 @@ recurrently-happy-rnn
     ├──recurrently-happy-rnn.ipynb
     ...
 ```
+4. Run the Jupyter notebook inside this directory (otherwise, images aren't gonna display properly).
 
 And that's it.
 Enjoy, have fun and happy hacking! :D
