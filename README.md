@@ -1,7 +1,9 @@
 # Having Fun with Recurrent Neural Networks (RNNs)
 ### Tutorial - PyData 2017
 (by Sergio G. Burdisso - sergio.burdisso@gmail.com)
+
 **Description:** https://pydata.org/sanluis2017/schedule/presentation/3/
+
 **Static Slides:** http://tworld-ai.com/extra/pydata/recurrently-happy-rnn.slides.html
 
 ### First things first
