@@ -3,7 +3,7 @@
 
 **Description:** https://pydata.org/sanluis2017/schedule/presentation/3/
 
-**Static Slides:** http://tworld-ai.com/extra/pydata/recurrently-happy-rnn.slides.html
+**Static Slides:** http://tworld.io/extra/pydata/recurrently-happy-rnn.slides.html
 
 
 ---
