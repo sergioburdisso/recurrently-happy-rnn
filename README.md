@@ -30,9 +30,9 @@ Make sure you have installed the following before opening the notebook.
 3. Extract those .zip files inside the notebook directory, so that you end up with something like this:
 ```
 recurrently-happy-rnn
-    ├──dataset
-    ├──trained_models
-    ├──images
+    ├──dataset/
+    ├──trained_models/
+    ├──images/
     ├──recurrently-happy-rnn.ipynb
     ...
 ```
