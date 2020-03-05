@@ -1,5 +1,5 @@
 # Having Fun with Recurrent Neural Networks (RNNs)
-(Tutorial for PyData 2017 by Sergio G. Burdisso - sergio.burdisso@gmail.com)
+(This repo contains all the files you need to replicate the Tutorial I've given on the PyData 2017 conference =D)
 
 **Description:** https://pydata.org/sanluis2017/schedule/presentation/3/
 
