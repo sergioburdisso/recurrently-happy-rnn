@@ -36,7 +36,7 @@ recurrently-happy-rnn
     ├──recurrently-happy-rnn.ipynb
     ...
 ```
-4. Run the Jupyter notebook inside this directory (otherwise, images aren't gonna display properly).
+4. Run the Jupyter notebook inside this directory (otherwise, images won't be displayed).
 
 And that's it.
 Enjoy, have fun and happy hacking! :D
